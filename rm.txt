@@ -2,9 +2,8 @@ lalala123
 devdevdevdevdevdevdevdev
 master
 feature
-<<<<<<< HEAD
 dev1 dev1
-=======
 dev1
 dev2
->>>>>>> dev2
+dede
+
