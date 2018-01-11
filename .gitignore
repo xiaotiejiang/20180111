@@ -1,6 +1,6 @@
 ﻿# kdiff3 ignore
 *.orig
-.bak
+*.bak
 
 # maven ignore
 target/
